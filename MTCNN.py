@@ -8,7 +8,6 @@ from face_detection_utils import detect_face, extract_face
 
 
 
-
 class PNet(nn.Module):
     """MTCNN PNet.
 

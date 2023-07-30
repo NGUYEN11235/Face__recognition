@@ -140,6 +140,19 @@
     </rect>
    </property>
   </widget>
+  <widget class="QPushButton" name="update_btn">
+   <property name="geometry">
+    <rect>
+     <x>940</x>
+     <y>560</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Update </string>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>

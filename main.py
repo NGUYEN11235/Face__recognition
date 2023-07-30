@@ -51,6 +51,7 @@ def compare_faces(image1_path, image2_path, detection_model, recognition_model):
 
 
 
+
 if __name__ == '__main__':
 
     face_detection_model = MTCNN()
